@@ -1,0 +1,9 @@
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Domain\bin\Debug\netcoreapp3.1\TestIARA.Domain.deps.json
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Domain\bin\Debug\netcoreapp3.1\TestIARA.Domain.dll
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Domain\bin\Debug\netcoreapp3.1\TestIARA.Domain.pdb
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Domain\obj\Debug\netcoreapp3.1\TestIARA.Domain.AssemblyInfoInputs.cache
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Domain\obj\Debug\netcoreapp3.1\TestIARA.Domain.AssemblyInfo.cs
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Domain\obj\Debug\netcoreapp3.1\TestIARA.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Domain\obj\Debug\netcoreapp3.1\TestIARA.Domain.dll
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Domain\obj\Debug\netcoreapp3.1\TestIARA.Domain.pdb
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Domain\obj\Debug\netcoreapp3.1\TestIARA.Domain.csprojAssemblyReference.cache

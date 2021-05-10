@@ -1,0 +1,17 @@
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\bin\Debug\netcoreapp3.1\TestIARA.Infrastructure.deps.json
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\bin\Debug\netcoreapp3.1\TestIARA.Infrastructure.runtimeconfig.json
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\bin\Debug\netcoreapp3.1\TestIARA.Infrastructure.runtimeconfig.dev.json
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\bin\Debug\netcoreapp3.1\TestIARA.Infrastructure.dll
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\bin\Debug\netcoreapp3.1\TestIARA.Infrastructure.pdb
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\bin\Debug\netcoreapp3.1\TestIARA.Application.dll
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\bin\Debug\netcoreapp3.1\TestIARA.Domain.dll
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\bin\Debug\netcoreapp3.1\TestIARA.Application.pdb
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\bin\Debug\netcoreapp3.1\TestIARA.Domain.pdb
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\obj\Debug\netcoreapp3.1\TestIARA.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\obj\Debug\netcoreapp3.1\TestIARA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\obj\Debug\netcoreapp3.1\TestIARA.Infrastructure.AssemblyInfo.cs
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\obj\Debug\netcoreapp3.1\TestIARA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\obj\Debug\netcoreapp3.1\TestIARA.Infrastructure.csproj.CopyComplete
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\obj\Debug\netcoreapp3.1\TestIARA.Infrastructure.dll
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\obj\Debug\netcoreapp3.1\TestIARA.Infrastructure.pdb
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Infrastructure\obj\Debug\netcoreapp3.1\TestIARA.Infrastructure.genruntimeconfig.cache

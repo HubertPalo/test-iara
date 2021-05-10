@@ -1,0 +1,12 @@
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Application\bin\Debug\netcoreapp3.1\TestIARA.Application.deps.json
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Application\bin\Debug\netcoreapp3.1\TestIARA.Application.dll
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Application\bin\Debug\netcoreapp3.1\TestIARA.Application.pdb
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Application\bin\Debug\netcoreapp3.1\TestIARA.Domain.dll
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Application\bin\Debug\netcoreapp3.1\TestIARA.Domain.pdb
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Application\obj\Debug\netcoreapp3.1\TestIARA.Application.csprojAssemblyReference.cache
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Application\obj\Debug\netcoreapp3.1\TestIARA.Application.AssemblyInfoInputs.cache
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Application\obj\Debug\netcoreapp3.1\TestIARA.Application.AssemblyInfo.cs
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Application\obj\Debug\netcoreapp3.1\TestIARA.Application.csproj.CoreCompileInputs.cache
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Application\obj\Debug\netcoreapp3.1\TestIARA.Application.csproj.CopyComplete
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Application\obj\Debug\netcoreapp3.1\TestIARA.Application.dll
+C:\Users\Nil\source\repos\TestIARA\TestIARA.Application\obj\Debug\netcoreapp3.1\TestIARA.Application.pdb
