@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Infrastructure\\TestIARA.Infrastructure.csproj": {}
+    "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Infrastructure\\TestIARA.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Application\\TestIARA.Application.csproj": {
+    "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Application\\TestIARA.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Application\\TestIARA.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Application\\TestIARA.Application.csproj",
         "projectName": "TestIARA.Application",
-        "projectPath": "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Application\\TestIARA.Application.csproj",
+        "projectPath": "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Application\\TestIARA.Application.csproj",
         "packagesPath": "C:\\Users\\Nil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Application\\obj\\",
+        "outputPath": "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Domain\\TestIARA.Domain.csproj": {
-                "projectPath": "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Domain\\TestIARA.Domain.csproj"
+              "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Domain\\TestIARA.Domain.csproj": {
+                "projectPath": "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Domain\\TestIARA.Domain.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Domain\\TestIARA.Domain.csproj": {
+    "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Domain\\TestIARA.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Domain\\TestIARA.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Domain\\TestIARA.Domain.csproj",
         "projectName": "TestIARA.Domain",
-        "projectPath": "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Domain\\TestIARA.Domain.csproj",
+        "projectPath": "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Domain\\TestIARA.Domain.csproj",
         "packagesPath": "C:\\Users\\Nil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Infrastructure\\TestIARA.Infrastructure.csproj": {
+    "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Infrastructure\\TestIARA.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Infrastructure\\TestIARA.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Infrastructure\\TestIARA.Infrastructure.csproj",
         "projectName": "TestIARA.Infrastructure",
-        "projectPath": "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Infrastructure\\TestIARA.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Infrastructure\\TestIARA.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Nil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,8 +174,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Application\\TestIARA.Application.csproj": {
-                "projectPath": "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Application\\TestIARA.Application.csproj"
+              "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Application\\TestIARA.Application.csproj": {
+                "projectPath": "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Application\\TestIARA.Application.csproj"
               }
             }
           }

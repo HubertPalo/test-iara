@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v+7J1SuQjT1uGlQOyFsD0Hr5WTCbtDnedm/qe4H9U0h895/1FCnpWdGflaJhfAA4ZbAU6Hk9MF4J0edulZqGFQ==",
+  "dgSpecHash": "vlubhJOzXoz46HpW+oXj7T/x4XGDYFSX1nacqQ6emv43z+o1FnZL0oNxfp74tzLCl3bp5MnD44ipEpg3dZ+0cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nil\\source\\repos\\TestIARA\\TestIARA.Application\\TestIARA.Application.csproj",
+  "projectFilePath": "C:\\Users\\Nil\\Documents\\test-iara\\TestIARA.Application\\TestIARA.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nil\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Nil\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
